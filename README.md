@@ -65,6 +65,7 @@
 - [**图像去雾 (Dehazing)**](#图像去雾-dehazing)
 - [**图像压缩 (Image Compression)**](#图像压缩-image-compression)
 - [**图像质量评价 (Image Quality Assessment)**](#图像质量评价-image-quality-assessment)
+- [**视频去雨 (Video Deraining)**](#图像质量评价-image-quality-assessment)
 
 ### **七、特定应用领域 (Specific Application Domains)**
 - [**具身智能 (Embodied AI)**](#具身智能-embodied-ai)

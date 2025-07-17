@@ -1765,6 +1765,27 @@
 ## **底层视觉 (Low-level Vision)**
 
 * **\[Oral\] Removing Reflections from RAW Photos**, Eric Kee, Adam Pikielny, Kevin Blackburn-Matzen, Marc Levoy
+* **\[Oral\] Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues**, Yuhui Liu, Liangxun Ou, Qiang Fu, Hadi Amata, Wolfgang Heidrich, Yifan Peng
+* **\[Oral\] Opportunistic Single-Photon Time of Flight**, Sotiris Nousias, Mian Wei, Howard Xiao, Maxx Wu, Shahmeer Athar, Kevin J. Wang, Anagh Malik, David A. Barmherzig, David B. Lindell, Kyros N. Kutulakos
+* PolarFree: Polarization-based Reflection-Free Imaging, Mingde Yao, Menglu Wang, King-Man Tam, Lingen Li, Tianfan Xue, Jinwei Gu
+* OpticalNet: An Optical Imaging Dataset and Benchmark Beyond the Diffraction Limit, Benquan Wang, Ruyi An, Jin-Kyu So, Sergei Kurdiumov, Eng Aik Chan, Giorgio Adamo, Yuhan Peng, Yewen Li, Bo An
+* A Physics-Informed Blur Learning Framework for Imaging Systems, Liqun Chen, Yuxuan Li, Jun Dai, Jinwei Gu, Tianfan Xue
+* MaDCoW: Marginal Distortion Correction for Wide-Angle Photography with Arbitrary Objects, Kevin Zhang, Jia-Bin Huang, Jose Echevarria, Stephen DiVerdi, Aaron Hertzmann
+* S2D-LFE: Sparse-to-Dense Light Field Event Generation, Yutong Liu, Wenming Weng, Yueyi Zhang, Zhiwei Xiong
+* Image Reconstruction from Readout-Multiplexed Single-Photon Detector Arrays, Shashwath Bharadwaj, Ruangrawee Kitichotkul, Akshay Agarwal, Vivek K Goyal
+* Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering, Yuanlin Wang, Yiyang Zhang, Ruiqin Xiong, Jing Zhao, Jian Zhang, Xiaopeng Fan, Tiejun Huang
+* EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera, Bohan Yu, Jin Han, Boxin Shi, Imari Sato
+* RORem: Training a Robust Object Remover with Human-in-the-Loop, Ruibin Li, Tao Yang, Song Guo, Lei Zhang
+* DL2G: Degradation-guided Local-to-Global Restoration for Eyeglass Reflection Removal, Zhilv Yi, Xiao Lu, Hong Ding, Jingbo Hu, Zhi Jiang, Chunxia Xiao
+* Improving Visual and Downstream Performance of Low-Light Enhancer with Vision Foundation Models Collaboration, Yuxuan Gu, Haoxuan Wang, Pengyang Ling, Zhixiang Wei, Huaian Chen, Yi Jin, Enhong Chen
+* PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution, Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo, Zhanyu Ma, Boxin Shi, Imari Sato
+* UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion, Zixuan Chen, Yujin Wang, Xin Cai, Zhiyuan You, Zheming Lu, Fan Zhang, Shi Guo, Tianfan Xue
+* LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene, Xiaoyu Zhang, Weihong Pan, Chong Bao, Xiyu Zhang, Xiaojun Xiang, Hanqing Jiang, Hujun Bao
+* Sea-ing in Low-light, Nisha Varghese, A. N. Rajagopalan
+* Exposure-slot: Exposure-centric Representations Learning with Slot-in-Slot Attention for Region-aware Exposure Correction, Donggoo Jung, Daehyun Kim, Guanghui Wang, Tae Hyun Kim
+* Do Computer Vision Foundation Models Learn the Low-level Characteristics of the Human Visual System?, Yancheng Cai, Fei Yin, Dounia Hammou, Rafal Mantiuk
+* A Snapshot Low-Light Depth from Defocus System, Wei Xu, Charles James Wagner, Junjie Luo, Qi Guo
+* Focal Split: Untethered Snapshot Depth from Differential Defocus, Junjie Luo, John Mamish, Alan Fu, Thomas Concannon, Josiah Hester, Emma Alexander, Qi Guo
 * Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries, Wei Xu, Charles James Wagner, Junjie Luo, Qi Guo
 * LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting, Xiaoyan Xing, Konrad Groh, Sezer Karaoglu, Theo Gevers, Anand Bhattad
 * IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images, Chih-Hao Lin, Jia-Bin Huang, Zhengqin Li, Zhao Dong, Christian Richardt, Tuotuo Li, Michael Zollhöfer, Johannes Kopf, Shenlong Wang, Changil Kim
@@ -1883,6 +1904,11 @@
 * Teaching Large Language Models to Regress Accurate Image Quality Scores Using Score Distribution, Zhiyuan You, Xin Cai, Jinjin Gu, Tianfan Xue, Chao Dong
 * Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference, Wenhao Shen, Mingliang Zhou, Yu Chen, Xuekai Wei, Yong Feng, Huayan Pu, Weijia Jia
 * AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM, Jiarui Wang, Huiyu Duan, Guangtao Zhai, Juntong Wang, Xiongkuo Min
+
+## **视频去雨 (Video Deraining)**
+* **\[Oral\] Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining**, Shangquan Sun, Wenqi Ren, Juxiang Zhou, Shu Wang, Jianhou Gan, Xiaochun Cao
+
+
 
 # **七、特定应用领域 (Specific Application Domains)**
 ## **具身智能 (Embodied AI)**

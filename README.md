@@ -129,10 +129,7 @@
 
 
 * **\[Oral\] LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions**, Faridoun Mehri, Mahdieh Soleymani Baghshah, Mohammad Taher Pilehvar
-* **\[Oral\] VGGT: Visual Geometry Grounded Transformer**, Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny
 * **\[Oral\] Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers**, Yichen Xiao, Shuai Wang, Dehao Zhang, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
-* **\[Oral\] AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, Quanwei Yang, Yasheng Sun, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu
-* **\[Oral\] Autoregressive Distillation of Diffusion Transformers**, Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu
 * *\[Highlight\] BWFormer: Building Wireframe Reconstruction from Airborne LIDAR Point Cloud with Transformer*, Yuzhou Liu, Lingjie Zhu, Hanqiao Ye, Shangfeng Huang, Xiang Gao, Xianwei Zheng, Shuhan Shen
 * *\[Highlight\] FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation*, Zhuguanyu Wu, Shihe Wang, Jiayi Zhang, Jiaxin Chen, Yunhong Wang
 * *\[Highlight\] HIPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation*, Hongwei Zheng, Han Li, Wenrui Dai, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong
@@ -611,6 +608,7 @@
 * **\[Oral\] Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**, Ryan Burgert, Yuancheng Xu, Wenqi Xian, Oliver Pilarski, Pascal Clausen, Mingming He, Li Ma, Yitong Deng, Lingxiao Li, Mohsen Mousavi, Michael Ryoo, Paul Debevec, Ning Yu
 * **\[Oral\] GS-DIT: Advancing Video Generation with Dynamic 3D Gaussian Fields through Efficient Dense 3D Point Tracking**, Weikang Bian, Zhaoyang Huang, Xiaoyu Shi, Yijin Li, Fu-Yun Wang, Hongsheng Li
 * **\[Oral\] CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Rundi Wu, Ruiqi Gao, Ben Poole, Alex Trevithick, Changxi Zheng, Jonathan T. Barron, Aleksander Holynski
+* **\[Oral\] AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan, Kaisiyuan Wang, Zhiliang Xu, Quanwei Yang, Yasheng Sun, Shengyi He, Borong Liang, Yukang Cao, Yingying Li, Haocheng Feng, Errui Ding, Jingdong Wang, Youjian Zhao, Hang Zhou, Ziwei Liu
 * *\[Highlight\] 4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion*, Chaoyang Wang, Peiye Zhuang, Tuan Duc Ngo, Willi Menapace, Aliaksandr Siarohin, Michael Vasilkovsky, Ivan Skorokhodov, Sergey Tulyakov, Peter Wonka, Hsin-Ying Lee
 * StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models, Yunzhi Yan, Zhen Xu, Haotong Lin, Haian Jin, Haoyu Guo, Yida Wang, Kun Zhan, Xianpeng Lang, Hujun Bao, Xiaowei Zhou, Sida Peng
 * SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device, Yushu Wu, Zhixing Zhang, Yanyu Li, Yanwu Xu, Anil Kag, Yang Sui, Huseyin Coskun, Ke Ma, Aleksei Lebedev, Ju Hu, Dimitris N. Metaxas, Yanzhi Wang, Sergey Tulyakov, Jian Ren
@@ -841,6 +839,7 @@
 ## **3D视觉 (3D Vision)**
 
 
+* ***\[Best Paper\]\[Oral\] VGGT: Visual Geometry Grounded Transformer***, Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny
 * **\[Oral\] Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**, Haoyu Guo, He Zhu, Sida Peng, Haotong Lin, Yunzhi Yan, Tao Xie, Wenguan Wang, Xiaowei Zhou, Hujun Bao
 * **\[Oral\] FoundationStereo: Zero-Shot Stereo Matching**, Bowen Wen, Matthew Trepte, Joseph Aribido, Jan Kautz, Orazio Gallo, Stan Birchfield
 * **\[Oral\] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision**, Ruicheng Wang, Sicheng Xu, Cassie Dai, Jianfeng Xiang, Yu Deng, Xin Tong, Jiaolong Yang
@@ -2130,6 +2129,7 @@
 
 ## **知识蒸馏 (Knowledge Distillation)**
 
+* **\[Oral\] Autoregressive Distillation of Diffusion Transformers**, Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu
 * Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification, Dongseob Kim, Hyunjung Shim
 * Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement, Shu Yang, Chengting Yu, Lei Liu, Hanzhi Ma, Aili Wang, Erping Li
 * Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks, Kairong Yu, Chengting Yu, Tianqing Zhang, Xiaochen Zhao, Shu Yang, Hongwei Wang, Qiang Zhang, Qi Xu

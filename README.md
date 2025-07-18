@@ -238,7 +238,6 @@
 * Adaptive Non-Uniform Timestep Sampling for Accelerating Diffusion Model Training, Myunsoo Kim, Donghyeon Ki, Seong-Woong Shim, Byung-Jun Lee
 * Scaling Inference Time Compute for Diffusion Models, Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su, Mingda Zhang, Xuan Yang, Yandong Li, Tommi Jaakkola, Xuhui Jia, Saining Xie
 * TCFG: Tangential Damping Classifier-free Guidance, Mingi Kwon, Shin seong Kim, Jaeseok Jeong, Yi Ting Hsiao, Youngjung Uh
-* DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture, Qianlong Xiang, Miao Zhang, Yuzhang Shang, Jianlong Wu, Yan Yan, Liqiang Nie
 * FADA: Fast Diffusion Avatar Synthesis with Mixed-Supervised Multi-CFG Distillation, Tianyun Zhong, Chao Liang, Jianwen Jiang, Gaojie Lin, Jiaqi Yang, Zhou Zhao
 * Early-Bird Diffusion: Investigating and Leveraging Timestep-Aware Early-Bird Tickets in Diffusion Models for Efficient Training, Lexington Whalen, Zhenbang Du, Haoran You, Chaojian Li, Sixu Li, Yingyan Lin
 * Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability, Yingdong Shi, Changming Li, Yifan Wang, Yongxiang Zhao, Anqi Pang, Sibei Yang, Jingyi Yu, Kan Ren
@@ -2157,6 +2156,7 @@
 ## **知识蒸馏 (Knowledge Distillation)**
 
 * **\[Oral\] Autoregressive Distillation of Diffusion Transformers**, Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu
+* DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture, Qianlong Xiang, Miao Zhang, Yuzhang Shang, Jianlong Wu, Yan Yan, Liqiang Nie
 * Classifier-guided CLIP Distillation for Unsupervised Multi-label Classification, Dongseob Kim, Hyunjung Shim
 * Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement, Shu Yang, Chengting Yu, Lei Liu, Hanzhi Ma, Aili Wang, Erping Li
 * Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks, Kairong Yu, Chengting Yu, Tianqing Zhang, Xiaochen Zhao, Shu Yang, Hongwei Wang, Qiang Zhang, Qi Xu

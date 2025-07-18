@@ -559,6 +559,7 @@
 * *\[Highlight\] PGC: Physics-Based Gaussian Cloth from a Single Pose*, Michelle Guo, Matt Jen-Yuan Chiang, Igor Santesteban, Nikolaos Sarafianos, Hsiao-yu Chen, Oshri Halimi, Aljaž Božič, Shunsuke Saito, Jiajun Wu, C. Karen Liu, Tuur Stuyck, Egor Larionov
 * *\[Highlight\] Parallelized Autoregressive Visual Generation*, Yuqing Wang, Shuhuai Ren, Zhijie Lin, Yujin Han, Haoyuan Guo, Zhenheng Yang, Difan Zou, Jiashi Feng, Xihui Liu
 * *\[Highlight\] StarVector: Generating Scalable Vector Graphics Code from Images and Text*, Juan A. Rodriguez, Abhay Puri, Shubham Agarwal, Issam H. Laradji, Pau Rodriguez, Sai Rajeswar, David Vazquez, Christopher Pal, Marco Pedersoli
+* Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models, Jinho Jeong, Sangmin Han, Jinwoo Kim, Seon Joo Kim
 * FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion, Haosen Yang, Adrian Bulat, Isma Hadji, Hai X. Pham, Xiatian Zhu, Georgios Tzimiropoulos, Brais Martinez
 * HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation, Hermann Kumbong, Xian Liu, Tsung-Yi Lin, Ming-Yu Liu, Xihui Liu, Ziwei Liu, Daniel Y. Fu, Christopher Re, David W. Romero
 * TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation, Liao Qu, Huichao Zhang, Yiheng Liu, Xu Wang, Yi Jiang, Yiming Gao, Hu Ye, Daniel K. Du, Zehuan Yuan, Xinglong Wu
@@ -1815,7 +1816,6 @@
 * HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution, Yuxuan Jiang, Ho Man Kwan, Tianhao Peng, Ge Gao, Fan Zhang, Xiaoqing Zhu, Joel Sole, David Bull
 * Augmenting Perceptual Super-Resolution via Image Quality Predictors, Fengjia Zhang, Samrudhdhi B. Rangrej, Tristan Aumentado-Armstrong, Afsaneh Fazly, Alex Levinshtein
 * Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach, Lingchen Sun, Rongyuan Wu, Zhiyuan Ma, Shuaizheng Liu, Qiaosi Yi, Lei Zhang
-* Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models, Jinho Jeong, Sangmin Han, Jinwoo Kim, Seon Joo Kim
 * Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution, Shijun Shi, Jing Xu, Lijing Lu, Zhihang Li, Kai Hu
 * Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution, Hang Xu, Jie Huang, Wei Yu, Jiangtong Tan, Zhen Zou, Feng Zhao
 * DiflISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution, Xingyuan Li, Zirui Wang, Yang Zou, Zhixin Chen, Jun Ma, Zhiying Jiang, Long Ma, Jinyuan Liu
